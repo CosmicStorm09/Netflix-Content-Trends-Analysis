@@ -1,4 +1,4 @@
-**Netflix Content Trends Analysis - Major Project**
+*Netflix Content Trends Analysis - Major Project*
 
 This project analyzes Netflix's global content catalog to identify strategic patterns and trends in content distribution, genre popularity, and geographic contributions.
 
@@ -49,6 +49,6 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 • Average movie duration: ~100 minutes
 
 ** Project Type: AICTE VOIS Internship Major Project**
-👤 Author: Harsh More | B.Tech Mechanical | MIT Manipal
-📅 Date: October 2025
+Author: Harsh More | B.Tech Mechanical | MIT Manipal
+Date: October 2025
 
