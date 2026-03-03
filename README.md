@@ -48,6 +48,10 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 • Significant content growth observed 2015-2019
 • Average movie duration: ~100 minutes
 
+
+
+
+
 Project Type: AICTE VOIS Internship Major Project
 
 Author: Harsh More | B.Tech Mechanical | MIT Manipal
