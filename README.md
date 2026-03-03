@@ -49,6 +49,8 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 • Average movie duration: ~100 minutes
 
 <br>
+<br>
+<br>
 
 Project Type: AICTE VOIS Internship Major Project
 
