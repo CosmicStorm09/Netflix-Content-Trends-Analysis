@@ -1,4 +1,4 @@
-*Netflix Content Trends Analysis - Major Project*
+**Netflix Content Trends Analysis - Major Project**
 
 This project analyzes Netflix's global content catalog to identify strategic patterns and trends in content distribution, genre popularity, and geographic contributions.
 
