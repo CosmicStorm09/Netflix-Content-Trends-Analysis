@@ -52,6 +52,15 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 
 
 
+
+
+
+
+
+
+
+
+
 Project Type: AICTE VOIS Internship Major Project
 
 Author: Harsh More | B.Tech Mechanical | MIT Manipal
